@@ -56,7 +56,7 @@ Beyond the dashboard, I ensure stakeholders understand the "So What?" through cl
 - **Tailored Messages**: Adjusting complexity for the audience.
 - **Suggested Actions**: Providing concrete next steps.
 
-![Communication Example](https://github.com/DataVizExpert-Sham/Predictive-Customer-Analytics-in-Power-BI/assets/151017676/bfa991d6-c901-4a80-b43b-f8a8c8c54aeb)
+
 
 ---
 
